@@ -12,7 +12,7 @@ A Flutter app that fetches and displays random quotes using a GET API. This proj
 - **Flutter**: UI development
 - **Dart**: Programming language
 - **http package**: API calls
-- **GetX**: State management and dependency injection
+- **Provider**: State management and dependency injection
 
 ## Installation
 
