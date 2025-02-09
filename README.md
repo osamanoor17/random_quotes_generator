@@ -18,7 +18,7 @@ A Flutter app that fetches and displays random quotes using a GET API. This proj
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/random_quotes_generator.git
+   git clone https://github.com/osamanoor17/random_quotes_generator.git
    ```
 2. Navigate to the project folder:
    ```sh
